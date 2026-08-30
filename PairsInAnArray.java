@@ -10,7 +10,7 @@ public class PairsInAnArray {
             }
             System.out.println();
         }
-        System.out.println("Total pairs in an array = " + tpp);
+        System.out.println ("Total pairs in an array = " + tpp);
     }
     public static void main(String[] args) {
         int arr[] = {2, 4, 6, 8, 10};
